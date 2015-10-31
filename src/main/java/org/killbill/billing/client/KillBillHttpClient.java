@@ -56,7 +56,7 @@ import com.google.common.collect.Multimap;
 
 public class KillBillHttpClient {
 
-    public static final int DEFAULT_HTTP_TIMEOUT_SEC = 10;
+    public static final int DEFAULT_HTTP_TIMEOUT_SEC = 20;
 
     public static final Multimap<String, String> DEFAULT_EMPTY_QUERY = ImmutableMultimap.<String, String>of();
     public static final String AUDIT_OPTION_CREATED_BY = "__AUDIT_OPTION_CREATED_BY";

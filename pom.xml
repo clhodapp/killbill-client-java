@@ -23,6 +23,7 @@
         <groupId>org.kill-bill.billing</groupId>
         <version>0.11</version>
     </parent>
+    <groupId>com.rocketlawyer</groupId>
     <artifactId>killbill-client-java</artifactId>
     <version>0.4</version>
     <packaging>jar</packaging>
